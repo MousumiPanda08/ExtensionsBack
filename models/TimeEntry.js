@@ -1,12 +1,11 @@
+// models/TimeEntry.js
 const mongoose = require("mongoose");
 
 const TimeEntrySchema = new mongoose.Schema({
   website: String,
-  timeSpent: Number,
-  date: {
-    type: Date,
-    default: Date.now,
-  },
+  totalTime: Number,
+  category: String,
+  date: Date,
 });
 
 module.exports = mongoose.model("TimeEntry", TimeEntrySchema);
