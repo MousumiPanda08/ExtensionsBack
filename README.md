@@ -115,3 +115,7 @@ Or view the data directly in the extension popup
 Conclusion:
 This Chrome extension project combines web development and browser automation in a practical way. It’s lightweight, functional, and scalable. You’ve successfully built a full-stack productivity tool that not only meets the internship requirements but also has real-world usefulness. It can be further enhanced with dashboards, category classification, and weekly summary reports.
 
+#OUTPUT
+
+<img width="1919" height="909" alt="Image" src="https://github.com/user-attachments/assets/59dee64e-03c5-4550-b7bf-17d6db00196b" />
+
