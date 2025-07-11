@@ -119,3 +119,5 @@ This Chrome extension project combines web development and browser automation in
 
 <img width="1919" height="909" alt="Image" src="https://github.com/user-attachments/assets/59dee64e-03c5-4550-b7bf-17d6db00196b" />
 
+<img width="552" height="323" alt="Image" src="https://github.com/user-attachments/assets/42a46512-7f69-4104-8dfd-aa2ba23c0c60" />
+
