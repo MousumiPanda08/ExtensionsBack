@@ -1,5 +1,19 @@
 #  CHROME EXTENSION FOR TIME TRACKING AND PRODUCTIVITY ANALYTICS
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: MOUSUMI PANDA
+
+*INTERN ID*: CITS0D641
+
+*DOMAIN*: FULL STACK WEB DEVELOPMENT
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH
+
+*DESCRIPTION* 
+
 This project is a Chrome Extension for time tracking and productivity analytics, created as part of the CODTECH Internship Task 4. It allows users to monitor how much time they spend on each website they visit and provides insights into their daily browsing behavior. The extension communicates with a backend server built using Node.js, Express.js, and MongoDB, and is deployed live on Render.
 
 **Development Process:**
