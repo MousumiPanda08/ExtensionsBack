@@ -1,0 +1,19 @@
+{
+  "name": "Time Tracker Extension",
+  "description": "Tracks time spent on websites and shows productivity report.",
+  "version": "1.1",
+  "manifest_version": 3,
+  "permissions": ["tabs", "storage", "activeTab", "scripting"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Time Tracker",
+    "default_icon": "icons/icon.png",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "128": "icons/icon.png"
+  }
+}
